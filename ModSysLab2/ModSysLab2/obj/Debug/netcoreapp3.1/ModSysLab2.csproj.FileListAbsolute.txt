@@ -1,0 +1,13 @@
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\bin\Debug\netcoreapp3.1\ModSysLab2.exe
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\bin\Debug\netcoreapp3.1\ModSysLab2.deps.json
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\bin\Debug\netcoreapp3.1\ModSysLab2.runtimeconfig.json
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\bin\Debug\netcoreapp3.1\ModSysLab2.runtimeconfig.dev.json
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\bin\Debug\netcoreapp3.1\ModSysLab2.dll
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\bin\Debug\netcoreapp3.1\ModSysLab2.pdb
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.AssemblyInfoInputs.cache
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.AssemblyInfo.cs
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.csproj.CoreCompileInputs.cache
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.dll
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.pdb
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.genruntimeconfig.cache
+D:\4 курс\Моделювання систем\ModSysLab2\ModSysLab2\obj\Debug\netcoreapp3.1\ModSysLab2.csprojAssemblyReference.cache
