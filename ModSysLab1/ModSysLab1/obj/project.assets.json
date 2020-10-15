@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\ModSysLab1\\ModSysLab1\\ModSysLab1.csproj",
+      "projectUniqueName": "D:\\4 курс\\Моделювання систем\\ModSysLab1\\ModSysLab1\\ModSysLab1.csproj",
       "projectName": "ModSysLab1",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\ModSysLab1\\ModSysLab1\\ModSysLab1.csproj",
+      "projectPath": "D:\\4 курс\\Моделювання систем\\ModSysLab1\\ModSysLab1\\ModSysLab1.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\ModSysLab1\\ModSysLab1\\obj\\",
+      "outputPath": "D:\\4 курс\\Моделювання систем\\ModSysLab1\\ModSysLab1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

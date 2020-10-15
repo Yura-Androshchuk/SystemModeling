@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1DMtGPAx1Pl/38JIk5DQarAgjUMXHpbJb6a4VQXxSkNI2lM1bYqgnmGmfEgEzrXjDu+65ky6Uw9imMVDM1L+qw==",
+  "dgSpecHash": "200idAD9Ot9fy6RgphZ1P29yGCKtDmetG3atfeQtfDEoR1hB0eIf00lvrubv2IlpoHIvQRSwgmO5FhKupagPKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\ModSysLab1\\ModSysLab1\\ModSysLab1.csproj",
+  "projectFilePath": "D:\\4 курс\\Моделювання систем\\ModSysLab1\\ModSysLab1\\ModSysLab1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512"

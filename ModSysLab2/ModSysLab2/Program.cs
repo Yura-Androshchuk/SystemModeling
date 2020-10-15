@@ -205,7 +205,7 @@ namespace ModSysLab2
         {
             Random rnd = new Random();
             double chance = rnd.NextDouble();
-            if (chance <= 0.1) return true;
+            if (chance <= 0.9) return true;
             else return false;
         }
     }
