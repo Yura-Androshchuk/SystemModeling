@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MsLab7\MsLab7\bin\Debug\netcoreapp3.1\MsLab7.exe
+C:\Users\Asus\source\repos\MsLab7\MsLab7\bin\Debug\netcoreapp3.1\MsLab7.deps.json
+C:\Users\Asus\source\repos\MsLab7\MsLab7\bin\Debug\netcoreapp3.1\MsLab7.runtimeconfig.json
+C:\Users\Asus\source\repos\MsLab7\MsLab7\bin\Debug\netcoreapp3.1\MsLab7.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MsLab7\MsLab7\bin\Debug\netcoreapp3.1\MsLab7.dll
+C:\Users\Asus\source\repos\MsLab7\MsLab7\bin\Debug\netcoreapp3.1\MsLab7.pdb
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.dll
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.pdb
+C:\Users\Asus\source\repos\MsLab7\MsLab7\obj\Debug\netcoreapp3.1\MsLab7.genruntimeconfig.cache
